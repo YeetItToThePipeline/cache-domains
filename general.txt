@@ -1,1 +1,1 @@
-itdistro01.asdk12.org
+*.asdk12.org
