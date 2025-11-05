@@ -19,6 +19,11 @@
       "name": "general",
       "description": "General Cache Domains",
       "domain_files": ["general.txt"]
+    },
+    {
+      "name": "dell",
+      "description": "CDN for Dell",
+      "domain_files": ["dell.txt"]
     }
   ]
 }
